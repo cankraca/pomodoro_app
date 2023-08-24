@@ -3,6 +3,7 @@ A pomodoro app using provider and shared preferences in flutter
 Some key features:
 - Offline mode
 - Dark/Light Theme
+- No stateful widgets were used
 
 Screenshots:
 
